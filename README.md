@@ -9,3 +9,6 @@
 ![ alt text ](https://img.shields.io/badge/gamejolt--CCFF00?style=for-the-badge&logo=gamejolt)
 ![ alt text ](https://img.shields.io/badge/github--181717?style=for-the-badge&logo=github)
 ![ alt text ](https://img.shields.io/badge/jenkinsx--73C3D5?style=for-the-badge&logo=jenkinsx)
+![ alt text ](https://img.shields.io/badge/microbit--00ED00?style=for-the-badge&logo=microbit)
+![ alt text ](https://img.shields.io/badge/soundcloud--FF3300?style=for-the-badge&logo=soundcloud)
+![ alt text ](https://img.shields.io/badge/appwrite--F02E65?style=for-the-badge&logo=appwrite)
